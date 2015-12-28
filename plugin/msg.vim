@@ -1,1 +1,1 @@
-command -nargs=0 MsgDebugmsgToggle call msg#ToggleDebugMsgStatus()
+command! -nargs=0 MsgDebugmsgToggle call msg#ToggleDebugMsgStatus()
